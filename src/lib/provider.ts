@@ -285,7 +285,7 @@ export default ContactForm;`;
         return `import React from 'react';
 
 const Card = ({ 
-  title = "Welcome to Our Service", 
+  title = "Know this feature",
   description = "Discover amazing features and capabilities that will transform your experience.",
   imageUrl,
   actions 
